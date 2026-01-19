@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: 100%;
+}
+/* body{
+  background-image: url("download.jfif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+} */
+/* h1{
+    
+    background: linear-gradient(rgb(24, 153, 204), lightblue);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+p{
+    
+    background: linear-gradient(rgb(24, 153, 204), rgb(36, 155, 195));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+} */
+/* 
+ #box1
+{
+    border: 3px solid black;
+    height: 200px;
+    width: 200px;
+    font-size: 19px;
+    background-color: bisque;
+    /* margin-top: 60px;
+    margin-left: 60px; */
+}  */
+/* #box2{
+    
+    border: 3px solid black;
+    height: 200px;
+    width: 200px;
+    font-size: 19px;
+    background-color: rgb(110, 68, 17);
+}  */
