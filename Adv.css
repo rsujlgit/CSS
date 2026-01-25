@@ -1,0 +1,23 @@
+h1{
+    text-shadow: 1px 1px 3px rgba(0,0 ,0 ,1);
+    text-transform: capitalize;
+ letter-spacing:1.5px;
+}
+p{
+    line-height: 1.7;
+}
+/* body{
+    background: linear-gradient( to right, wheat, rgb(147, 144, 138));
+} */
+
+
+.gd
+{
+     background: radial-gradient( circle,white,lightblue);
+}
+div{
+    box-shadow: 9px 4px 10px rgba(0,0,0,0.7);
+    border: 3px solid;
+    width: 100px;
+    height: 100px;
+}
